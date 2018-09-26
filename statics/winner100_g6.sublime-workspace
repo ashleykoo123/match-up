@@ -1,0 +1,904 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"NAME",
+				"NAME_10"
+			],
+			[
+				"opo",
+				"opponentScore"
+			],
+			[
+				"oppo",
+				"opponentScore"
+			],
+			[
+				"Player",
+				"PlayerData"
+			],
+			[
+				"max",
+				"max"
+			],
+			[
+				"N",
+				"NameError"
+			],
+			[
+				"excep",
+				"Exception"
+			],
+			[
+				"community",
+				"community_name"
+			],
+			[
+				"return",
+				"return_psw"
+			],
+			[
+				"default",
+				"defaultdict"
+			],
+			[
+				"log",
+				"login"
+			],
+			[
+				"commu",
+				"community_names"
+			],
+			[
+				"xp",
+				"xpath2"
+			],
+			[
+				"verte",
+				"vertexNames"
+			],
+			[
+				"ad",
+				"adjacentEdges"
+			],
+			[
+				"tar",
+				"targetVertex"
+			],
+			[
+				"computeEu",
+				"computeEuclideanDistance"
+			],
+			[
+				"B",
+				"BufferedReader"
+			],
+			[
+				"String",
+				"StringBuilder"
+			],
+			[
+				"dictionary",
+				"dictionaryBuffer"
+			],
+			[
+				"file",
+				"fileReader"
+			],
+			[
+				"is",
+				"isDigit"
+			],
+			[
+				"right",
+				"rightNode"
+			],
+			[
+				"left",
+				"leftNode"
+			],
+			[
+				"righ",
+				"rightChild"
+			],
+			[
+				"Exp",
+				"ExpressionNode"
+			],
+			[
+				"le",
+				"leftChild"
+			],
+			[
+				"lef",
+				"leftNode"
+			],
+			[
+				"re",
+				"resultString"
+			],
+			[
+				"Object",
+				"Object"
+			],
+			[
+				"num",
+				"numOccur"
+			],
+			[
+				"Inde",
+				"IndexOutOfBoundsException"
+			],
+			[
+				"LLL",
+				"LLListIterator"
+			],
+			[
+				"in",
+				"inorderPrint"
+			],
+			[
+				"po",
+				"postorderPrint"
+			],
+			[
+				"fuel",
+				"fuelEfficiency"
+			],
+			[
+				"second",
+				"secondSwitch"
+			],
+			[
+				"first",
+				"firstSwitch"
+			],
+			[
+				"other",
+				"otherParameter"
+			],
+			[
+				"D",
+				"DIME_VALUE"
+			],
+			[
+				"Qu",
+				"QUARTER_VALUE"
+			],
+			[
+				"ie",
+				"IsLeapYear"
+			],
+			[
+				"DIV",
+				"DIVIDE_TEST_1"
+			],
+			[
+				"DIVID",
+				"DIVIDE_1"
+			],
+			[
+				"leap",
+				"leapYearTest"
+			],
+			[
+				"Ni",
+				"NICKEL_VALUE"
+			],
+			[
+				"qua",
+				"QUARTER_VALUE"
+			],
+			[
+				"heatmap",
+				"heatmap_premises"
+			],
+			[
+				"title",
+				"titles"
+			],
+			[
+				"ev",
+				"evaluation_rational"
+			],
+			[
+				"evaluation",
+				"evaluation_rational"
+			],
+			[
+				"eval",
+				"evaluation_rational"
+			],
+			[
+				"eva",
+				"evaluation_rational"
+			],
+			[
+				"int",
+				"interpretation"
+			],
+			[
+				"part",
+				"partial_agreement"
+			],
+			[
+				"par",
+				"partial_agreement"
+			],
+			[
+				"un",
+				"undercutter_attack"
+			],
+			[
+				"agre",
+				"partial_agreement"
+			],
+			[
+				"a",
+				"a"
+			],
+			[
+				"su",
+				"support"
+			],
+			[
+				"html",
+				"html_list"
+			],
+			[
+				"rising",
+				"rising_pull"
+			],
+			[
+				"cvs",
+				"csvfile"
+			],
+			[
+				"comments",
+				"comments_replied_to"
+			],
+			[
+				"comment",
+				"comment_queue"
+			],
+			[
+				"comm",
+				"comment_reply"
+			],
+			[
+				"id",
+				"id_list"
+			],
+			[
+				"cmv",
+				"cmv_subreddit"
+			],
+			[
+				"url",
+				"url_list"
+			],
+			[
+				"top",
+				"top_level_comment"
+			],
+			[
+				"karma",
+				"karma_by_subreddit"
+			],
+			[
+				"relation",
+				"relation_agreement"
+			],
+			[
+				"relation_",
+				"relation_agreement"
+			],
+			[
+				"rel",
+				"relation_support"
+			],
+			[
+				"real",
+				"relation_support"
+			],
+			[
+				"con",
+				"concession"
+			],
+			[
+				"client",
+				"client_secret"
+			],
+			[
+				"alpha",
+				"alphabetList"
+			],
+			[
+				"origian",
+				"originalPattern"
+			],
+			[
+				"curre",
+				"currentList"
+			],
+			[
+				"family",
+				"familyList"
+			],
+			[
+				"famil",
+				"familyList"
+			],
+			[
+				"game",
+				"gameCount"
+			],
+			[
+				"die",
+				"dieTwo"
+			],
+			[
+				"curr",
+				"current2"
+			],
+			[
+				"game1",
+				"game1Result"
+			],
+			[
+				"total",
+				"totalGames"
+			],
+			[
+				"check",
+				"checkSum100"
+			],
+			[
+				"T",
+				"TOGGLE"
+			],
+			[
+				"SW",
+				"SWITCH_UP"
+			],
+			[
+				"toggle",
+				"toggleFirstSwitch"
+			],
+			[
+				"S",
+				"SWITCH_UP"
+			],
+			[
+				"L",
+				"LAMP_ON"
+			],
+			[
+				"SWITCH",
+				"SWITCH_DOWN"
+			],
+			[
+				"emp",
+				"employeeName"
+			],
+			[
+				"toggl",
+				"toggleSecondSwitch"
+			],
+			[
+				"change",
+				"changeDue"
+			],
+			[
+				"M",
+				"METERS_PER_MILE"
+			],
+			[
+				"launch",
+				"launchVelocity"
+			],
+			[
+				"res",
+				"resizedMassForReturn"
+			],
+			[
+				"R",
+				"RADIOUS_OF_COMMET"
+			],
+			[
+				"mi",
+				"minimumMassForReturn"
+			],
+			[
+				"G",
+				"GRAVITATIONAL_CONSTANT"
+			],
+			[
+				"jum",
+				"jumpResult"
+			],
+			[
+				"escape",
+				"escapeVelocity"
+			],
+			[
+				"e",
+				"escapeVelocity"
+			],
+			[
+				"PENNIES",
+				"PENNIES_PER_DIME"
+			],
+			[
+				"P",
+				"PENNIES_PER_QUARTER"
+			],
+			[
+				"to",
+				"totalPennies"
+			],
+			[
+				"amount",
+				"amountReturn"
+			],
+			[
+				"amountRe",
+				"amountReceived"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Java/Ant.sublime-build",
+					""
+				],
+				[
+					"Packages/Java/JavaC.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Java/JavaC.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/hynjn9/Downloads/Theme1Milestone1/run.py",
+		"/Users/hynjn9/Downloads/Theme1Milestone1/CMakeLists.txt",
+		"/Users/hynjn9/Documents/Planning ahead",
+		"/Users/hynjn9/Documents/Why GAPS?",
+		"/Users/hynjn9/Documents/Let's work together! Say hi! I'm definitely not li",
+		"/Users/hynjn9/Documents/Quicksort.java",
+		"/Users/hynjn9/Documents/Mergesort.java",
+		"/Users/hynjn9/Documents/CipherText.java",
+		"/Users/hynjn9/Documents/BridgeCrossing.java",
+		"/Users/hynjn9/Documents/Bowling.java",
+		"/Users/hynjn9/Documents/Friends.java",
+		"/Users/hynjn9/Documents/Trucking.java",
+		"/Users/hynjn9/Documents/WaterparkMe.java",
+		"/Users/hynjn9/Documents/Waterpark.java",
+		"/Users/hynjn9/Downloads/b.cpp",
+		"/Users/hynjn9/Documents/a-School/COMS-W1004-Spring-2018/assignments/programming-project-5/Ashley/timestamps.txt",
+		"/Users/hynjn9/Documents/a-School/COMS-W1004-Spring-2018/assignments/problem-set-6/Ashley/sjk2178.txt",
+		"/Users/hynjn9/Documents/a-School/COMS-W1004-Spring-2018/assignments/problem-set-6/Ashley/sj2802.txt",
+		"/Users/hynjn9/Documents/a-School/COMS-W1004-Spring-2018/assignments/problem-set-6/Ashley/sj2801.txt",
+		"/Users/hynjn9/Documents/a-School/COMS-W1004-Spring-2018/assignments/problem-set-6/Ashley/sj2472.txt",
+		"/Users/hynjn9/Documents/a-School/COMS-W1004-Spring-2018/assignments/problem-set-6/Ashley/shr2118.txt",
+		"/Users/hynjn9/Documents/a-School/COMS-W1004-Spring-2018/assignments/problem-set-6/Ashley/sh3784.txt",
+		"/Users/hynjn9/Documents/a-School/COMS-W1004-Spring-2018/assignments/problem-set-6/Ashley/sh3588.txt",
+		"/Users/hynjn9/Documents/a-School/COMS-W1004-Spring-2018/assignments/problem-set-6/Ashley/sh3469.txt",
+		"/Users/hynjn9/Documents/a-School/COMS-W1004-Spring-2018/assignments/problem-set-6/Ashley/sgt2118.txt",
+		"/Users/hynjn9/Documents/a-School/COMS-W1004-Spring-2018/assignments/problem-set-6/Ashley/sfs2166.txt",
+		"/Users/hynjn9/Documents/a-School/COMS-W1004-Spring-2018/assignments/problem-set-6/Ashley/sf2738.txt",
+		"/Users/hynjn9/Documents/a-School/COMS-W1004-Spring-2018/assignments/problem-set-6/Ashley/ses2264.txt",
+		"/Users/hynjn9/Documents/a-School/COMS-W1004-Spring-2018/assignments/problem-set-6/Ashley/sdk2147.txt",
+		"/Users/hynjn9/Documents/a-School/COMS-W1004-Spring-2018/assignments/problem-set-6/Ashley/scs2216.txt",
+		"/Users/hynjn9/Documents/a-School/COMS-W1004-Spring-2018/assignments/problem-set-6/Ashley/scf2139.txt",
+		"/Users/hynjn9/Documents/a-School/COMS-W1004-Spring-2018/assignments/problem-set-6/Ashley/sc4128.txt",
+		"/Users/hynjn9/Documents/a-School/COMS-W1004-Spring-2018/assignments/problem-set-6/Ashley/sbx2101.txt",
+		"/Users/hynjn9/Documents/a-School/COMS-W1004-Spring-2018/assignments/problem-set-6/Ashley/saf2187.txt",
+		"/Users/hynjn9/Documents/a-School/COMS-W1004-Spring-2018/assignments/problem-set-6/Ashley/rzm2104.txt",
+		"/Users/hynjn9/Documents/a-School/COMS-W1004-Spring-2018/assignments/programming-project-5/Ashley/kl2985.txt",
+		"/Users/hynjn9/Documents/a-School/COMS-W1004-Spring-2018/assignments/problem-set-6/Ashley/timestamps.txt",
+		"/Users/hynjn9/Documents/a-School/COMS-W1004-Spring-2018/assignments/programming-project-5/Ashley/kk3120.txt",
+		"/Users/hynjn9/Documents/a-School/COMS-W1004-Spring-2018/assignments/programming-project-5/Ashley/kic2109.txt",
+		"/Users/hynjn9/Documents/a-School/COMS-W1004-Spring-2018/assignments/programming-project-5/Ashley/kgb2120.txt",
+		"/Users/hynjn9/Documents/a-School/COMS-W1004-Spring-2018/assignments/programming-project-5/Ashley/kh2857.txt",
+		"/Users/hynjn9/Documents/a-School/COMS-W1004-Spring-2018/assignments/programming-project-5/Ashley/klw2168.txt",
+		"/Users/hynjn9/Documents/a-School/COMS-W1004-Spring-2018/assignments/programming-project-5/Ashley/kce2111.txt",
+		"/Users/hynjn9/Documents/a-School/COMS-W1004-Spring-2018/assignments/programming-project-5/Ashley/kcc2150.txt",
+		"/Users/hynjn9/Documents/a-School/COMS-W1004-Spring-2018/assignments/programming-project-5/Ashley/kb2695.txt",
+		"/Users/hynjn9/Documents/a-School/COMS-W1004-Spring-2018/assignments/programming-project-5/Ashley/ka2607.txt",
+		"/Users/hynjn9/Documents/a-School/COMS-W1004-Spring-2018/assignments/programming-project-5/Ashley/jz2916.txt",
+		"/Users/hynjn9/Documents/a-School/COMS-W1004-Spring-2018/assignments/programming-project-5/Ashley/jy2886.txt",
+		"/Users/hynjn9/Documents/a-School/COMS-W1004-Spring-2018/assignments/programming-project-5/Ashley/jwa2119.txt",
+		"/Users/hynjn9/Documents/a-School/COMS-W1004-Spring-2018/assignments/programming-project-5/Ashley/jw3648.txt",
+		"/Users/hynjn9/Documents/a-School/COMS-W1004-Spring-2018/assignments/programming-project-5/Ashley/jv2624.txt",
+		"/Users/hynjn9/Documents/a-School/COMS-W1004-Spring-2018/assignments/programming-project-5/Ashley/jtf2130.txt",
+		"/Users/hynjn9/Documents/a-School/COMS-W1004-Spring-2018/assignments/programming-project-5/Ashley/jsk2235.txt",
+		"/Users/hynjn9/Documents/a-School/COMS-W1004-Spring-2018/assignments/programming-project-5/Ashley/js5207.txt",
+		"/Users/hynjn9/Documents/a-School/COMS-W1004-Spring-2018/assignments/programming-project-5/Ashley/js5160.txt",
+		"/Users/hynjn9/Documents/a-School/COMS-W1004-Spring-2018/assignments/programming-project-5/Ashley/js4978.txt",
+		"/Users/hynjn9/Documents/a-School/COMS-W1004-Spring-2018/assignments/programming-project-5/Ashley/js4978/js4978_pp5/WordLists.java",
+		"/Users/hynjn9/Documents/a School_2018/Spec Tech/techtutorial.txt",
+		"/Users/hynjn9/Documents/a School_2018/Spec Tech/almabot.txt",
+		"/Users/hynjn9/Documents/a School_2018/COMS-W1004-Spring-2018/assignments/problem-set-5/Ashley/jh3888.txt",
+		"/Users/hynjn9/Documents/a School_2018/COMS-W1004-Spring-2018/assignments/programming-project-4/Ashley/mmc2268/Game.java",
+		"/Users/hynjn9/Documents/a School_2018/COMS-W1004-Spring-2018/assignments/programming-project-4/Ashley/mjm2334/mjm2334_PP4/PokerTest.java",
+		"/Users/hynjn9/Documents/a School_2018/COMS-W1004-Spring-2018/assignments/programming-project-4/Ashley/mjm2334/mjm2334_PP4/Player.java",
+		"/Users/hynjn9/Documents/a School_2018/COMS-W1004-Spring-2018/assignments/programming-project-4/Ashley/mjm2334/mjm2334_PP4/Deck.java",
+		"/Users/hynjn9/Documents/a School_2018/COMS-W1004-Spring-2018/assignments/programming-project-4/Ashley/mjm2334/mjm2334_PP4/Card.java",
+		"/Users/hynjn9/Documents/a School_2018/COMS-W1004-Spring-2018/assignments/programming-project-4/Ashley/mjm2334/mjm2334_PP4/Game.java",
+		"/Users/hynjn9/Documents/a School_2018/COMS-W1004-Spring-2018/assignments/programming-project-4/Ashley/mjm2334.txt",
+		"/Users/hynjn9/Documents/a School_2018/COMS-W1004-Spring-2018/assignments/programming-project-4/Ashley/mgn2111/PokerTest.java",
+		"/Users/hynjn9/Documents/a School_2018/COMS-W1004-Spring-2018/assignments/programming-project-4/Ashley/mgn2111/Player.java",
+		"/Users/hynjn9/Documents/a School_2018/COMS-W1004-Spring-2018/assignments/programming-project-4/Ashley/mgn2111/Deck.java",
+		"/Users/hynjn9/Documents/a School_2018/COMS-W1004-Spring-2018/assignments/programming-project-4/Ashley/mgn2111/Card.java",
+		"/Users/hynjn9/Documents/a School_2018/COMS-W1004-Spring-2018/assignments/programming-project-4/Ashley/mgn2111/Game.java",
+		"/Users/hynjn9/Documents/a School_2018/COMS-W1004-Spring-2018/assignments/programming-project-4/Ashley/mgn2111/ReadMe.txt",
+		"/Users/hynjn9/Documents/a School_2018/4111 Databases/webserver/w4111-proj1/templates/questions.html",
+		"/Users/hynjn9/Documents/a School_2018/4111 Databases/webserver/w4111-proj1/templates/another.html",
+		"/Users/hynjn9/Documents/a School_2018/4111 Databases/webserver/w4111-proj1/templates/index.html",
+		"/Users/hynjn9/Documents/a School_2018/4111 Databases/test/myprogram.py",
+		"/Users/hynjn9/Documents/a School_2018/4111 Databases/webserver/w4111-proj1/templates/community.html",
+		"/Users/hynjn9/Documents/a School_2018/4111 Databases/webserver/w4111-proj1/templates/index2.html",
+		"/Users/hynjn9/Documents/a School_2018/y SpecTech/spec-scraper2/index.js",
+		"/Users/hynjn9/unixtutorial/My-Liking.txt",
+		"/Users/hynjn9/unixtutorial/Polymorphims-java.txt",
+		"/Users/hynjn9/unixtutorial/apply.txt",
+		"/Users/hynjn9/unixtutorial/Brian Kerninghan on successful language design.txt",
+		"/Users/hynjn9/unixtutorial/Solution.java",
+		"/Users/hynjn9/spectutorial/VES-vote-emma/index.js",
+		"/Users/hynjn9/Documents/unixtutorial/my_project/googlecloud",
+		"/.bashrc",
+		"/Users/hynjn9/Documents/unixtutorial/test.rb",
+		"/Users/hynjn9/Downloads/Narcisa_pset2 (1)/cbo2108/E64a.java",
+		"/Users/hynjn9/Downloads/Narcisa_pset2 (1)/cdg2155/BankAccountTester.java",
+		"/Users/hynjn9/Downloads/Narcisa_pset2 (1)/cdg2155/E64a.java",
+		"/Users/hynjn9/Downloads/Narcisa_pset2 (1)/cbo2108/LightSwitchTester.java",
+		"/Users/hynjn9/Downloads/Narcisa_pset2 (1)/cdm2170.txt",
+		"/Users/hynjn9/Downloads/Narcisa_pset2 (1)/caj2156/caj2156.zip",
+		"/Users/hynjn9/Downloads/Narcisa_pset2 (1)/bsr2133/CircuitTester3.java",
+		"/Users/hynjn9/Downloads/Narcisa_pset2 (1)/bsr2133/Seasons.java",
+		"/Users/hynjn9/Downloads/Narcisa_pset2 (1)/bsr2133/bsr2133.zip",
+		"/Users/hynjn9/Desktop/VES_Webapp/package.json",
+		"/Users/hynjn9/Desktop/VES_Webapp/index.html",
+		"/Users/hynjn9/Desktop/VES_Webapp/index.js",
+		"/Users/hynjn9/Desktop/COMS-W1004-Spring-2018/assignments/problem-set-1/Ashley/jb4115/__MACOSX/._jb4115_ps1.docx",
+		"/Users/hynjn9/Desktop/COMS-W1004-Spring-2018/assignments/problem-set-1/Ashley/jb4115/jb4115_ps1.docx",
+		"/Users/hynjn9/Desktop/Program.txt",
+		"/Users/hynjn9/Desktop/mypage.html",
+		"/Users/hynjn9/Desktop/hello.py",
+		"/Users/hynjn9/Documents/Junior/Data Structures/Dijkstra.java",
+		"/Users/hynjn9/Downloads/programming1 2/Display.java",
+		"/Users/hynjn9/Downloads/programming1 2/Edge.java",
+		"/Users/hynjn9/Downloads/programming1 2/Vertex.java",
+		"/Users/hynjn9/Downloads/programming1 2/cityxy.txt",
+		"/Users/hynjn9/Downloads/programming1 2/citypairs.txt",
+		"/Users/hynjn9/Documents/Junior/Data Structures/Dikstra/README.txt",
+		"/Users/hynjn9/Documents/Junior/Data Structures/HW4/SpellChecker.java",
+		"/Users/hynjn9/Documents/Junior/1004/pp4/drive-download-20171109T160426Z-001/PokerTest.java",
+		"/Users/hynjn9/Documents/Junior/1004/pp4/drive-download-20171109T160426Z-001/Game.java",
+		"/Users/hynjn9/Documents/Junior/1004/pp4/drive-download-20171109T160426Z-001/Player.java",
+		"/Users/hynjn9/Documents/Junior/1004/pp4/drive-download-20171109T160426Z-001/Deck.java",
+		"/Users/hynjn9/Documents/Junior/1004/pp4/drive-download-20171109T160426Z-001/Card.java",
+		"/Users/hynjn9/Documents/Junior/Data Structures/hk2827@homework3/README.txt",
+		"/Users/hynjn9/Documents/Junior/Data Structures/IndexAvlTree.java",
+		"/Users/hynjn9/Documents/Junior/Data Structures/Problem2.java",
+		"/Users/hynjn9/Documents/Junior/Data Structures/UnderflowException.java",
+		"/Users/hynjn9/Documents/Junior/Data Structures/MyStack.java",
+		"/Users/hynjn9/Documents/Junior/Data Structures/HW3/Problem1.java",
+		"/Users/hynjn9/Projects/Java with Cannon/exceptions.md",
+		"/Users/hynjn9/Documents/Junior/Data Structures/ExpressionTree.java",
+		"/Users/hynjn9/Documents/Junior/Data Structures/ashleykoo_homework1/Readme.txt"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Winner: g8",
+			"Winner: g1",
+			"Winner: g8",
+			"Analyze",
+			"Analz",
+			"getSkills()",
+			"getNew()",
+			"Opponent.skills",
+			"Analyze",
+			"Anal",
+			".score",
+			"Analyze",
+			"Opponent",
+			"Winner: g7",
+			"Tie!",
+			"Winner: g1",
+			"ties!",
+			"Winner: g2",
+			"Player g8 skills are [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 5, 5, 5, 3, 2]",
+			"ties!",
+			"Winner: g8",
+			"Winner: g7",
+			"ties!",
+			"Winner: g7",
+			"Winner: g8",
+			"Winner: g5",
+			"Winner: g8",
+			"tie",
+			"Winner: g8",
+			"Winner: g1",
+			"Winner: g6",
+			"Winner: g8",
+			"Winner: g1",
+			"tie!",
+			"Winner: g8",
+			"Winner: g6",
+			"tie!",
+			"incorrect",
+			"signup",
+			"login",
+			"modal login",
+			"modal",
+			"ask",
+			"asks",
+			"/ask",
+			"/asks",
+			"asks",
+			"/asks",
+			"search_result",
+			"search",
+			"community",
+			"try",
+			"similar to",
+			"date",
+			"inserted a comment",
+			"correct ",
+			"answer",
+			"Exception",
+			"key",
+			"keyword",
+			"key",
+			"/ask/",
+			"asks_",
+			"asks)",
+			"inserted a comment",
+			"yay",
+			"login",
+			"answers",
+			"try",
+			"logged_in",
+			"post",
+			"a_id",
+			"request.form",
+			"0",
+			"request.form",
+			"current_",
+			"date",
+			"current",
+			"correct ",
+			"I was",
+			"session",
+			"signup",
+			"img_",
+			"login",
+			"%d",
+			"/community/",
+			"/add",
+			"/search",
+			"forgot",
+			"/login/",
+			"action_page",
+			"login",
+			"community",
+			"method",
+			"find",
+			"method",
+			"if",
+			"default",
+			"trailing",
+			"uid",
+			"button",
+			"avatar",
+			"ad",
+			"add",
+			"uid",
+			"qns",
+			"q&a",
+			"request.method",
+			"commun",
+			"request",
+			"data",
+			"getPayout",
+			"comments",
+			"original",
+			"get",
+			"freq",
+			"weekly",
+			"recurrence",
+			"weekly",
+			"vcal",
+			"event",
+			"vcal",
+			"event",
+			"repeat",
+			"calendar",
+			"EuclideanCost",
+			"kevin",
+			"isCharacter"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"correct",
+			"%s",
+			"methods",
+			"isLetter",
+			"TreeNode",
+			"top",
+			"str",
+			"stop"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.SublimeLinter Messages":
+	{
+		"height": 112.0
+	},
+	"output.exec":
+	{
+		"height": 27.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Java/JavaC.sublime-build",
+	"project": "winner100_g6.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Desktop/pythonpractice/97-.xml"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 137.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

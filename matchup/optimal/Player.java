@@ -1,4 +1,4 @@
-package matchup.g8;
+package matchup.optimal;
 
 import java.util.ArrayList;
 import java.util.Collections;
@@ -74,7 +74,7 @@ public class Player implements matchup.sim.Player {
 	{
 
 		List<Game> hist  = Simulator.getGames();
-		if(hist.size()>=2 && hist.get(hist.size()-1).playerA.name.equals("g8"))
+		if(hist.size()>=2 && hist.get(hist.size()-1).playerA.name.equals("optimal"))
 		{
 			Opponent = hist.get(hist.size()-1).playerB;
 			Opponent_score = hist.get(hist.size()-1).playerB.score + hist.get(hist.size()-2).playerB.score;
@@ -99,9 +99,11 @@ public class Player implements matchup.sim.Player {
 
 			else if(Opponent_score == Self_score)
 			{
-				System.out.println("last game was a tie thus keeping previous team");
-				if(lossStreak>0) WonLast = false;
-				else WonLast = true; 
+				WonLast = false;
+				lossStreak++;
+				// System.out.println("last game was a tie thus keeping previous team");
+				// if(lossStreak>0) WonLast = false;
+				// else WonLast = true; 
 			}
 			else
 				{
@@ -164,10 +166,10 @@ public class Player implements matchup.sim.Player {
 		Analyze();
 
 		
-		if(!WonLast && lossStreak<4)
+		if(!WonLast && lossStreak<2)
 		  skills = getNew();
 
-		else if(lossStreak>=4)
+		else if(lossStreak>=2)
 		  improveSkills();
 		
 		if(first_game)

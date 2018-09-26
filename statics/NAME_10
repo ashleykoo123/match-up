@@ -1,0 +1,647 @@
+
+Starting game with players g1, g8
+Player g1 skills are [10, 2, 9, 3, 6, 10, 2, 9, 3, 6, 10, 2, 9, 3, 6]
+Player g8 skills are [9, 9, 9, 9, 7, 7, 7, 5, 5, 5, 4, 4, 4, 4, 2]
+
+Home: g1, Away: g8
+Player g1 distribution is [[10, 2, 9, 3, 6], [10, 2, 9, 3, 6], [10, 2, 9, 3, 6]]
+Player g8 distribution is [[9, 9, 9, 9, 7], [7, 7, 5, 5, 5], [4, 4, 4, 4, 2]]
+
+Round 1
+Player g8 round is [9, 9, 9, 9, 7]
+g1 bestTeam:
+[10, 2, 9, 3, 6]
+g1 round:
+[10, 2, 9, 3, 6]
+Player g1 round is [10, 2, 9, 3, 6]
+Score: g1 0, g8 2
+
+Round 2
+Player g8 round is [5, 5, 7, 7, 5]
+g1 bestTeam:
+[10, 9, 2, 6, 3]
+g1 round:
+[10, 9, 2, 6, 3]
+Player g1 round is [10, 9, 2, 6, 3]
+Score: g1 2, g8 1
+
+Round 3
+0
+Player g8 round is [2, 4, 4, 4, 4]
+g1 bestTeam:
+[6, 2, 9, 3, 10]
+g1 round:
+[6, 2, 9, 3, 10]
+Player g1 round is [6, 2, 9, 3, 10]
+Score: g1 3, g8 0
+
+Total score: g1 5 g8 3
+
+Home: g8, Away: g1
+Player g1 distribution is [[10, 2, 9, 3, 6], [10, 2, 9, 3, 6], [10, 2, 9, 3, 6]]
+Player g8 distribution is [[9, 9, 7, 7, 2], [9, 7, 5, 4, 4], [9, 5, 5, 4, 4]]
+
+Round 1
+Player g1 round is [10, 2, 9, 3, 6]
+Player g8 round is [9, 5, 7, 4, 4]
+Score: g1 0, g8 1
+
+Round 2
+Player g1 round is [10, 2, 9, 3, 6]
+Player g8 round is [9, 7, 7, 9, 2]
+Score: g1 1, g8 2
+
+Round 3
+Player g1 round is [10, 2, 9, 3, 6]
+Player g8 round is [9, 5, 4, 4, 5]
+Score: g1 1, g8 1
+
+Total score: g1 7 g8 7
+
+Tie! Score: 7
+
+Starting game with players g1, g8
+105
+Player g1 skills are [2, 5, 4, 5, 6, 6, 8, 9, 6, 7, 7, 6, 7, 5, 7]
+last game was a tie thus keeping previous team
+Player g8 skills are [9, 9, 9, 9, 7, 7, 7, 5, 5, 5, 4, 4, 4, 4, 2]
+
+Home: g1, Away: g8
+Player g1 distribution is [[2, 5, 4, 5, 6], [6, 8, 9, 6, 7], [7, 6, 7, 5, 7]]
+Player g8 distribution is [[9, 9, 9, 9, 7], [7, 7, 5, 5, 5], [4, 4, 4, 4, 2]]
+
+Round 1
+Player g8 round is [9, 9, 9, 9, 7]
+g1 bestTeam:
+[2, 5, 4, 5, 6]
+g1 round:
+[2, 5, 4, 5, 6]
+Player g1 round is [2, 5, 4, 5, 6]
+Score: g1 0, g8 4
+
+Round 2
+Player g8 round is [5, 5, 7, 5, 7]
+g1 bestTeam:
+[6, 8, 6, 9, 7]
+g1 round:
+[6, 8, 6, 9, 7]
+Player g1 round is [6, 8, 6, 9, 7]
+Score: g1 2, g8 0
+
+Round 3
+0
+Player g8 round is [4, 2, 4, 4, 4]
+g1 bestTeam:
+[7, 6, 7, 5, 7]
+g1 round:
+[7, 6, 7, 5, 7]
+Player g1 round is [7, 6, 7, 5, 7]
+Score: g1 4, g8 0
+
+Total score: g1 6 g8 4
+
+Home: g8, Away: g1
+Player g1 distribution is [[2, 5, 4, 5, 6], [6, 8, 9, 6, 7], [7, 6, 7, 5, 7]]
+Player g8 distribution is [[9, 9, 7, 7, 2], [9, 7, 5, 4, 4], [9, 5, 5, 4, 4]]
+
+Round 1
+Player g1 round is [2, 5, 4, 5, 6]
+Player g8 round is [5, 9, 4, 4, 5]
+Score: g1 0, g8 2
+
+Round 2
+Player g1 round is [7, 6, 7, 5, 7]
+Player g8 round is [7, 9, 7, 9, 2]
+Score: g1 1, g8 2
+
+Round 3
+Player g1 round is [6, 8, 9, 6, 7]
+Player g8 round is [9, 7, 4, 4, 5]
+Score: g1 1, g8 1
+
+Total score: g1 8 g8 9
+
+Winner: g8 9
+
+Starting game with players g1, g8
+103
+Player g1 skills are [4, 6, 6, 7, 6, 7, 9, 7, 7, 5, 6, 4, 5, 5, 6]
+Player g8 skills are [9, 9, 9, 9, 7, 7, 7, 5, 5, 5, 4, 4, 4, 4, 2]
+
+Home: g1, Away: g8
+Player g1 distribution is [[4, 6, 6, 7, 6], [7, 9, 7, 7, 5], [6, 4, 5, 5, 6]]
+Player g8 distribution is [[9, 9, 9, 9, 7], [7, 7, 5, 5, 5], [4, 4, 4, 4, 2]]
+
+Round 1
+Player g8 round is [9, 9, 9, 9, 7]
+g1 bestTeam:
+[4, 6, 6, 7, 6]
+g1 round:
+[4, 6, 6, 7, 6]
+Player g1 round is [4, 6, 6, 7, 6]
+Score: g1 0, g8 3
+
+Round 2
+Player g8 round is [7, 5, 5, 5, 7]
+g1 bestTeam:
+[7, 9, 7, 7, 5]
+g1 round:
+[7, 9, 7, 7, 5]
+Player g1 round is [7, 9, 7, 7, 5]
+Score: g1 1, g8 0
+
+Round 3
+0
+Player g8 round is [2, 4, 4, 4, 4]
+g1 bestTeam:
+[6, 4, 5, 5, 6]
+g1 round:
+[6, 4, 5, 5, 6]
+Player g1 round is [6, 4, 5, 5, 6]
+Score: g1 1, g8 0
+
+Total score: g1 2 g8 3
+
+Home: g8, Away: g1
+Player g1 distribution is [[4, 6, 6, 7, 6], [7, 9, 7, 7, 5], [6, 4, 5, 5, 6]]
+Player g8 distribution is [[9, 9, 7, 7, 2], [9, 7, 5, 4, 4], [9, 5, 5, 4, 4]]
+
+Round 1
+Player g1 round is [6, 4, 5, 5, 6]
+Player g8 round is [9, 4, 4, 5, 5]
+Score: g1 0, g8 1
+
+Round 2
+Player g1 round is [7, 9, 7, 7, 5]
+0
+Player g8 round is [7, 7, 9, 9, 2]
+Score: g1 1, g8 0
+
+Round 3
+Player g1 round is [4, 6, 6, 7, 6]
+Player g8 round is [7, 9, 4, 5, 4]
+Score: g1 0, g8 2
+
+Total score: g1 3 g8 6
+
+Winner: g8 6
+
+Starting game with players g1, g8
+101
+Player g1 skills are [5, 4, 6, 6, 7, 6, 7, 8, 9, 5, 5, 4, 5, 6, 7]
+Player g8 skills are [9, 9, 9, 9, 7, 7, 7, 5, 5, 5, 4, 4, 4, 4, 2]
+
+Home: g1, Away: g8
+Player g1 distribution is [[5, 4, 6, 6, 7], [6, 7, 8, 9, 5], [5, 4, 5, 6, 7]]
+Player g8 distribution is [[9, 9, 9, 9, 7], [7, 7, 5, 5, 5], [4, 4, 4, 4, 2]]
+
+Round 1
+Player g8 round is [9, 9, 9, 9, 7]
+g1 bestTeam:
+[5, 4, 6, 7, 6]
+g1 round:
+[5, 4, 6, 7, 6]
+Player g1 round is [5, 4, 6, 7, 6]
+Score: g1 0, g8 3
+
+Round 2
+Player g8 round is [5, 7, 5, 5, 7]
+g1 bestTeam:
+[6, 7, 8, 9, 5]
+g1 round:
+[6, 7, 8, 9, 5]
+Player g1 round is [6, 7, 8, 9, 5]
+Score: g1 2, g8 0
+
+Round 3
+0
+Player g8 round is [4, 2, 4, 4, 4]
+g1 bestTeam:
+[5, 5, 4, 6, 7]
+g1 round:
+[5, 5, 4, 6, 7]
+Player g1 round is [5, 5, 4, 6, 7]
+Score: g1 2, g8 0
+
+Total score: g1 4 g8 3
+
+Home: g8, Away: g1
+Player g1 distribution is [[5, 4, 6, 6, 7], [6, 7, 8, 9, 5], [5, 4, 5, 6, 7]]
+Player g8 distribution is [[9, 9, 7, 7, 2], [9, 7, 5, 4, 4], [9, 5, 5, 4, 4]]
+
+Round 1
+Player g1 round is [5, 4, 6, 6, 7]
+Player g8 round is [9, 4, 4, 5, 5]
+Score: g1 0, g8 1
+
+Round 2
+Player g1 round is [5, 4, 5, 6, 7]
+Player g8 round is [9, 7, 4, 4, 5]
+Score: g1 0, g8 2
+
+Round 3
+Player g1 round is [6, 7, 8, 9, 5]
+Player g8 round is [9, 7, 7, 9, 2]
+Score: g1 1, g8 1
+
+Total score: g1 5 g8 7
+
+Winner: g8 7
+
+Starting game with players g1, g8
+101
+Player g1 skills are [4, 4, 7, 7, 7, 5, 9, 8, 7, 5, 5, 5, 5, 6, 6]
+Player g8 skills are [9, 9, 9, 9, 7, 7, 7, 5, 5, 5, 4, 4, 4, 4, 2]
+
+Home: g1, Away: g8
+Player g1 distribution is [[4, 4, 7, 7, 7], [5, 9, 8, 7, 5], [5, 5, 5, 6, 6]]
+Player g8 distribution is [[9, 9, 9, 9, 7], [7, 7, 5, 5, 5], [4, 4, 4, 4, 2]]
+
+Round 1
+Player g8 round is [9, 9, 9, 9, 7]
+g1 bestTeam:
+[4, 4, 7, 7, 7]
+g1 round:
+[4, 4, 7, 7, 7]
+Player g1 round is [4, 4, 7, 7, 7]
+Score: g1 0, g8 2
+
+Round 2
+Player g8 round is [7, 7, 5, 5, 5]
+g1 bestTeam:
+[5, 7, 8, 9, 5]
+g1 round:
+[5, 7, 8, 9, 5]
+Player g1 round is [5, 7, 8, 9, 5]
+Score: g1 2, g8 0
+
+Round 3
+0
+Player g8 round is [4, 2, 4, 4, 4]
+g1 bestTeam:
+[5, 5, 5, 6, 6]
+g1 round:
+[5, 5, 5, 6, 6]
+Player g1 round is [5, 5, 5, 6, 6]
+Score: g1 1, g8 0
+
+Total score: g1 3 g8 2
+
+Home: g8, Away: g1
+Player g1 distribution is [[4, 4, 7, 7, 7], [5, 9, 8, 7, 5], [5, 5, 5, 6, 6]]
+Player g8 distribution is [[9, 9, 7, 7, 2], [9, 7, 5, 4, 4], [9, 5, 5, 4, 4]]
+
+Round 1
+Player g1 round is [5, 5, 5, 6, 6]
+Player g8 round is [9, 4, 4, 5, 5]
+Score: g1 0, g8 1
+
+Round 2
+Player g1 round is [5, 9, 8, 7, 5]
+Player g8 round is [9, 7, 4, 5, 4]
+Score: g1 1, g8 1
+
+Round 3
+Player g1 round is [4, 4, 7, 7, 7]
+Player g8 round is [7, 7, 9, 9, 2]
+Score: g1 1, g8 2
+
+Total score: g1 5 g8 6
+
+Winner: g8 6
+
+Starting game with players g1, g8
+100
+Player g1 skills are [5, 6, 6, 7, 7, 8, 8, 8, 9, 4, 3, 2, 5, 6, 6]
+Player g8 skills are [9, 9, 9, 9, 7, 7, 7, 5, 5, 5, 4, 4, 4, 4, 2]
+
+Home: g1, Away: g8
+Player g1 distribution is [[5, 6, 6, 7, 7], [8, 8, 8, 9, 4], [3, 2, 5, 6, 6]]
+Player g8 distribution is [[9, 9, 9, 9, 7], [7, 7, 5, 5, 5], [4, 4, 4, 4, 2]]
+
+Round 1
+Player g8 round is [9, 9, 9, 9, 7]
+g1 bestTeam:
+[5, 6, 7, 7, 6]
+g1 round:
+[5, 6, 7, 7, 6]
+Player g1 round is [5, 6, 7, 7, 6]
+Score: g1 0, g8 2
+
+Round 2
+0
+Player g8 round is [5, 5, 5, 7, 7]
+g1 bestTeam:
+[8, 8, 8, 9, 4]
+g1 round:
+[8, 8, 8, 9, 4]
+Player g1 round is [8, 8, 8, 9, 4]
+Score: g1 3, g8 1
+
+Round 3
+0
+Player g8 round is [2, 4, 4, 4, 4]
+g1 bestTeam:
+[5, 2, 3, 6, 6]
+g1 round:
+[5, 2, 3, 6, 6]
+Player g1 round is [5, 2, 3, 6, 6]
+Score: g1 1, g8 0
+
+Total score: g1 4 g8 3
+
+Home: g8, Away: g1
+Player g1 distribution is [[5, 6, 6, 7, 7], [8, 8, 8, 9, 4], [3, 2, 5, 6, 6]]
+Player g8 distribution is [[9, 9, 7, 7, 2], [9, 7, 5, 4, 4], [9, 5, 5, 4, 4]]
+
+Round 1
+Player g1 round is [3, 2, 5, 6, 6]
+Player g8 round is [9, 5, 4, 4, 5]
+Score: g1 0, g8 2
+
+Round 2
+Player g1 round is [8, 8, 8, 9, 4]
+Player g8 round is [7, 7, 9, 9, 2]
+Score: g1 0, g8 0
+
+Round 3
+Player g1 round is [5, 6, 6, 7, 7]
+Player g8 round is [9, 4, 4, 5, 7]
+Score: g1 0, g8 1
+
+Total score: g1 4 g8 6
+
+Winner: g8 6
+
+Starting game with players g1, g8
+100
+Player g1 skills are [6, 5, 6, 5, 6, 8, 8, 8, 8, 5, 5, 4, 3, 6, 7]
+Player g8 skills are [9, 9, 9, 9, 7, 7, 7, 5, 5, 5, 4, 4, 4, 4, 2]
+
+Home: g1, Away: g8
+Player g1 distribution is [[6, 5, 6, 5, 6], [8, 8, 8, 8, 5], [5, 4, 3, 6, 7]]
+Player g8 distribution is [[9, 9, 9, 9, 7], [7, 7, 5, 5, 5], [4, 4, 4, 4, 2]]
+
+Round 1
+Player g8 round is [9, 9, 9, 9, 7]
+g1 bestTeam:
+[6, 5, 6, 5, 6]
+g1 round:
+[6, 5, 6, 5, 6]
+Player g1 round is [6, 5, 6, 5, 6]
+Score: g1 0, g8 4
+
+Round 2
+0
+Player g8 round is [5, 5, 5, 7, 7]
+g1 bestTeam:
+[8, 8, 8, 8, 5]
+g1 round:
+[8, 8, 8, 8, 5]
+Player g1 round is [8, 8, 8, 8, 5]
+Score: g1 3, g8 0
+
+Round 3
+0
+Player g8 round is [2, 4, 4, 4, 4]
+g1 bestTeam:
+[5, 4, 3, 6, 7]
+g1 round:
+[5, 4, 3, 6, 7]
+Player g1 round is [5, 4, 3, 6, 7]
+Score: g1 2, g8 0
+
+Total score: g1 5 g8 4
+
+Home: g8, Away: g1
+Player g1 distribution is [[6, 5, 6, 5, 6], [8, 8, 8, 8, 5], [5, 4, 3, 6, 7]]
+Player g8 distribution is [[9, 9, 7, 7, 2], [9, 7, 5, 4, 4], [9, 5, 5, 4, 4]]
+
+Round 1
+Player g1 round is [8, 8, 8, 8, 5]
+0
+Player g8 round is [7, 7, 9, 9, 2]
+Score: g1 1, g8 0
+
+Round 2
+Player g1 round is [6, 5, 6, 5, 6]
+Player g8 round is [9, 4, 4, 5, 5]
+Score: g1 0, g8 1
+
+Round 3
+Player g1 round is [5, 4, 3, 6, 7]
+Player g8 round is [9, 7, 4, 4, 5]
+Score: g1 0, g8 2
+
+Total score: g1 6 g8 7
+
+Winner: g8 7
+
+Starting game with players g1, g8
+104
+Player g1 skills are [6, 4, 6, 7, 7, 8, 7, 9, 7, 8, 5, 3, 3, 5, 5]
+Player g8 skills are [9, 9, 9, 9, 7, 7, 7, 5, 5, 5, 4, 4, 4, 4, 2]
+
+Home: g1, Away: g8
+Player g1 distribution is [[6, 4, 6, 7, 7], [8, 7, 9, 7, 8], [5, 3, 3, 5, 5]]
+Player g8 distribution is [[9, 9, 9, 9, 7], [7, 7, 5, 5, 5], [4, 4, 4, 4, 2]]
+
+Round 1
+Player g8 round is [9, 9, 9, 9, 7]
+g1 bestTeam:
+[6, 4, 7, 7, 6]
+g1 round:
+[6, 4, 7, 7, 6]
+Player g1 round is [6, 4, 7, 7, 6]
+Score: g1 0, g8 2
+
+Round 2
+Player g8 round is [5, 7, 5, 5, 7]
+g1 bestTeam:
+[8, 7, 9, 8, 7]
+g1 round:
+[8, 7, 9, 8, 7]
+Player g1 round is [8, 7, 9, 8, 7]
+Score: g1 3, g8 0
+
+Round 3
+0
+Player g8 round is [2, 4, 4, 4, 4]
+g1 bestTeam:
+[5, 3, 3, 5, 5]
+g1 round:
+[5, 3, 3, 5, 5]
+Player g1 round is [5, 3, 3, 5, 5]
+Score: g1 1, g8 0
+
+Total score: g1 4 g8 2
+
+Home: g8, Away: g1
+Player g1 distribution is [[6, 4, 6, 7, 7], [8, 7, 9, 7, 8], [5, 3, 3, 5, 5]]
+Player g8 distribution is [[9, 9, 7, 7, 2], [9, 7, 5, 4, 4], [9, 5, 5, 4, 4]]
+
+Round 1
+Player g1 round is [8, 7, 9, 7, 8]
+0
+Player g8 round is [7, 7, 9, 9, 2]
+Score: g1 1, g8 0
+
+Round 2
+Player g1 round is [6, 4, 6, 7, 7]
+Player g8 round is [9, 4, 4, 5, 5]
+Score: g1 0, g8 1
+
+Round 3
+Player g1 round is [5, 3, 3, 5, 5]
+Player g8 round is [9, 7, 4, 4, 5]
+Score: g1 0, g8 2
+
+Total score: g1 5 g8 5
+
+Tie! Score: 5
+
+Starting game with players g1, g8
+104
+Player g1 skills are [6, 4, 6, 7, 6, 7, 6, 9, 8, 7, 5, 4, 4, 6, 5]
+last game was a tie thus keeping previous team
+Player g8 skills are [9, 9, 9, 9, 7, 7, 7, 5, 5, 5, 4, 4, 4, 4, 2]
+
+Home: g1, Away: g8
+Player g1 distribution is [[6, 4, 6, 7, 6], [7, 6, 9, 8, 7], [5, 4, 4, 6, 5]]
+Player g8 distribution is [[9, 9, 9, 9, 7], [7, 7, 5, 5, 5], [4, 4, 4, 4, 2]]
+
+Round 1
+Player g8 round is [9, 9, 9, 9, 7]
+g1 bestTeam:
+[6, 4, 6, 7, 6]
+g1 round:
+[6, 4, 6, 7, 6]
+Player g1 round is [6, 4, 6, 7, 6]
+Score: g1 0, g8 3
+
+Round 2
+Player g8 round is [5, 7, 5, 5, 7]
+g1 bestTeam:
+[7, 6, 9, 8, 7]
+g1 round:
+[7, 6, 9, 8, 7]
+Player g1 round is [7, 6, 9, 8, 7]
+Score: g1 2, g8 0
+
+Round 3
+0
+Player g8 round is [2, 4, 4, 4, 4]
+g1 bestTeam:
+[5, 4, 4, 6, 5]
+g1 round:
+[5, 4, 4, 6, 5]
+Player g1 round is [5, 4, 4, 6, 5]
+Score: g1 1, g8 0
+
+Total score: g1 3 g8 3
+
+Home: g8, Away: g1
+Player g1 distribution is [[6, 4, 6, 7, 6], [7, 6, 9, 8, 7], [5, 4, 4, 6, 5]]
+Player g8 distribution is [[9, 9, 7, 7, 2], [9, 7, 5, 4, 4], [9, 5, 5, 4, 4]]
+
+Round 1
+Player g1 round is [5, 4, 4, 6, 5]
+Player g8 round is [9, 4, 4, 5, 5]
+Score: g1 0, g8 1
+
+Round 2
+Player g1 round is [6, 4, 6, 7, 6]
+Player g8 round is [9, 7, 4, 5, 4]
+Score: g1 0, g8 2
+
+Round 3
+Player g1 round is [7, 6, 9, 8, 7]
+Player g8 round is [7, 9, 7, 9, 2]
+Score: g1 1, g8 1
+
+Total score: g1 4 g8 7
+
+Winner: g8 7
+
+Starting game with players g1, g8
+104
+Player g1 skills are [4, 5, 6, 4, 6, 8, 7, 9, 7, 8, 5, 3, 5, 6, 7]
+Player g8 skills are [9, 9, 9, 9, 7, 7, 7, 5, 5, 5, 4, 4, 4, 4, 2]
+
+Home: g1, Away: g8
+Player g1 distribution is [[4, 5, 6, 4, 6], [8, 7, 9, 7, 8], [5, 3, 5, 6, 7]]
+Player g8 distribution is [[9, 9, 9, 9, 7], [7, 7, 5, 5, 5], [4, 4, 4, 4, 2]]
+
+Round 1
+Player g8 round is [9, 9, 9, 9, 7]
+g1 bestTeam:
+[4, 5, 6, 4, 6]
+g1 round:
+[4, 5, 6, 4, 6]
+Player g1 round is [4, 5, 6, 4, 6]
+Score: g1 0, g8 4
+
+Round 2
+Player g8 round is [7, 5, 5, 7, 5]
+g1 bestTeam:
+[7, 8, 9, 7, 8]
+g1 round:
+[7, 8, 9, 7, 8]
+Player g1 round is [7, 8, 9, 7, 8]
+Score: g1 3, g8 0
+
+Round 3
+0
+Player g8 round is [2, 4, 4, 4, 4]
+g1 bestTeam:
+[5, 3, 5, 6, 7]
+g1 round:
+[5, 3, 5, 6, 7]
+Player g1 round is [5, 3, 5, 6, 7]
+Score: g1 2, g8 0
+
+Total score: g1 5 g8 4
+
+Home: g8, Away: g1
+Player g1 distribution is [[4, 5, 6, 4, 6], [8, 7, 9, 7, 8], [5, 3, 5, 6, 7]]
+Player g8 distribution is [[9, 9, 7, 7, 2], [9, 7, 5, 4, 4], [9, 5, 5, 4, 4]]
+
+Round 1
+Player g1 round is [4, 5, 6, 4, 6]
+Player g8 round is [9, 4, 4, 5, 5]
+Score: g1 0, g8 1
+
+Round 2
+Player g1 round is [8, 7, 9, 7, 8]
+0
+Player g8 round is [7, 7, 9, 9, 2]
+Score: g1 1, g8 0
+
+Round 3
+Player g1 round is [5, 3, 5, 6, 7]
+Player g8 round is [9, 7, 4, 4, 5]
+Score: g1 0, g8 2
+
+Total score: g1 6 g8 7
+
+Winner: g8 7
+
+******** Results ********
+
+Total wins: 
+g1: 0
+g8: 8
+
+Ties: 2
+
+Total scores: 
+g1: 53
+g8: 67
+
+Avg scores as Home: 
+g1: 4.1
+g8: 3.6
+
+Avg scores as Away: 
+g1: 1.2
+g8: 3.1
